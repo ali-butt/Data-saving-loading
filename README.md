@@ -45,3 +45,6 @@ DataManager.instance.AddOrModifyData("player", player);
 
 // Access the saved custom class
 Player loadedPlayer = (Player)DataManager.instance.Data["player"];
+
+License:
+Feel free to use, modify, and distribute this script in your own projects. Please provide credit to the original author when using this script in your work.
